@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-    max-width: 600px;
+    max-width: 90%;
     margin: 50px auto;
     padding: 20px;
     background: #fff;
@@ -35,6 +35,8 @@ form button {
     color: white;
     border: none;
     cursor: pointer;
+    border-radius: 4px;
+    margin: 2px;
 }
 
 form button:hover {
@@ -61,6 +63,7 @@ li button {
     color: white;
     border: none;
     cursor: pointer;
+    border-radius: 3px;
 }
 
 li button:hover {
