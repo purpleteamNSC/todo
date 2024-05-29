@@ -1,6 +1,6 @@
 <h1 align="center" id="title">PWA TODO</h1>
 
-<p id="description">O projeto tem como objetivo criar um TODO usando o conceito de PWA salvanso os dados em localstorage.</p>
+<p id="description">O projeto tem como objetivo criar um TODO usando o conceito de PWA salvando os dados em localstorage, podendo ser instalado no MOBILE como aplicativo.</p>
 
 <p align="center"><img src="https://img.shields.io/badge/PWA-TODO-brightgreen" alt="shields"></p>
 
